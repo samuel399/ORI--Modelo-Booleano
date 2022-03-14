@@ -1,0 +1,12 @@
+cas: 1,1 2,4 3,3
+engrac: 1,1
+nao: 1,2 2,1
+tet: 1,1
+nad: 1,1
+qu: 2,2 3,2
+mor: 2,1 3,1
+tamb: 2,1
+comig: 3,2
+am: 3,1
+fac: 3,1
+favor: 3,1
