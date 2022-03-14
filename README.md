@@ -1,0 +1,1 @@
+# ORI--Modelo-Booleano
